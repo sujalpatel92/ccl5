@@ -1,7 +1,7 @@
 from __future__ import print_function
-import bottle
-from bottle import get,post,request,response,route,run
-import json
+import bottle, json, time, sys, os, datetime
+from bottle import get,post,request,response,route,run,Bottle
+from rocket import Rocket
 
 # debug variable for light state
 lState = "off"
@@ -9,6 +9,10 @@ lState = "off"
 deviceLEDState = dict()
 # list of registered devices
 registeredDevices = list()
+# dict to store last connected time of pi
+pi_last_connected = dict()
+# list to store device id's whose confirmation is awaited
+await_pi_confirm = list()
 
 """
 This class is used to decode josn file.
@@ -44,8 +48,15 @@ class JsonDecode():
             retval[key] = value
         return retval
 
+# bottle necessary initialization for creating deployable app
+app = Bottle(__name__)
+# for debugging
+app.debug = True
+
 # function to return ip address of the requester
-@route('/myip')
+@app.route('/myip')
+#@app.get('/myip')
+#@app.post('/myip')
 def showip():
 	ip = request['REMOTE_ADDR']
 	print(ip)
@@ -56,11 +67,16 @@ This function is used to get the light status for a raspberry pi
 input: request object with params = {'DeviceId':<id>} form
 return: stored state of the LED on that pi
 """
-@get('/light/status')
+@app.get('/light/status')
 def tellLightState():
+	# need to complete implementation. currently partial implementation
 	global deviceLEDState
 	deviceid = request.params["DeviceId"]
 	if deviceid in deviceLEDState:
+		if deviceid in pi_last_connected:
+			now = datetime.datetime.now()
+			pi_last_connected[deviceid] = str(now)
+		
 		return {'light':deviceLEDState[deviceid]}
 	else:
 		return bottle.HTTPResponse(status=404)
@@ -70,7 +86,7 @@ This function is used to update the LED status of pi from the user end
 input request object with body = {'DeviceId':<id>, 'Light':<state>}
 return HTTP 200 on sucessful status change else HTTP 500
 """
-@post('/light/status')
+@app.post('/light/status')
 def setLightState():
 	# need to complete implementation. currently partial implementation.
 	global lState
@@ -88,18 +104,63 @@ This end-point will be called from pi and pi will be registered in device regist
 input: request object with body = {'DeviceID':<id>}
 return: HTTP 200 on successful or HTTP 500
 """
-@post('/registerdevice/pi')
+@app.post('/registerdevice/pi')
 def registerpi():
 	# need to complete implementation. Currently partial implementation
-	global registeredDevices
+	global registeredDevices, await_pi_confirm
 	payload = json.loads(json.dumps(request.json), object_hook = JsonDecode.get_dict)
 	print(payload["DeviceId"])
-	if payload["DeviceId"] in registeredDevices:
+	pi_id = payload["DeviceId"]
+	if pi_id in registeredDevices:
 		return bottle.HTTPResponse(status=200)
 	else:
-		registeredDevices.append(payload["DeviceId"])
-		deviceLEDState[payload["DeviceId"]] = "off"
+		registeredDevices.append(pi_id)
+		deviceLEDState[payload[pi_id]] = "off"
+		now = datetime.datetime.now()
+		pi_last_connected[pi_id] = str(now)
+		if pi_id in await_pi_confirm:
+			await_pi_confirm.remove(pi_id)
 		return bottle.HTTPResponse(status=200)
 
-# need to add if __name__ check here.
-run(host = "0.0.0.0", port = 8080)
+"""
+This function is used to register the pi from front end
+input: request obejct with body = {'DeviceId':<id>}
+return: HTTP 200 on successful or HTTP 500
+"""
+@app.post('/registerdevice/frontend')
+def registerfromfrontend():
+	global await_pi_confirm, registeredDevices
+	payload = json.loads(json.dumps(request.json), object_hook = JsonDecode.get_dict)
+	pi_id = payload["DeviceId"]
+	await_pi_confirm.append(pi_id)
+	"""
+	*WARNING*
+	Blocking call here
+	need to upgrade this call with locking or remove it altogether
+	"""
+	while pi_id in await_pi_confirm:
+		pass
+	if pi_id in registeredDevices:
+		return bottle.HTTPResponse(status = 200)
+	else:
+		return bottle.HTTPResponse(status = 500)
+
+"""
+This function creates the Rocket server object using bottle deployable app object
+parameters:
+interfaces = (<server address>,<port>)
+method = 'wsgi' as bottls is the wsgi based webserver micro-framework for python
+app_info = {'wsgi_app':<bottle deployable object>}
+
+"""
+def run_server():
+	server = Rocket(
+		interfaces = ('0.0.0.0', 8000),
+		method = 'wsgi',
+		app_info = {'wsgi_app': app})
+	server.start()
+
+# main code entry point
+if __name__ == "__main__" :
+	#run(host = "0.0.0.0", port = 8080)
+	run_server()
