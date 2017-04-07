@@ -1,0 +1,45 @@
+import json
+import time
+import requests
+
+#importing gpio for raspberry pi
+try:
+    import RPi.GPIO as GPIO
+except RuntimeError:
+    print("Error importing RPi.GPIO!  This is probably because you need superuser privileges")
+
+# Defining a global device id so it could be increased in sequence
+device_id=1001
+payload= {'Device_id': device_id}
+url = "http://?????"
+
+# Change the state of the pi to desired
+def piStatus(content):
+    GPIO.setmode(GPIO.BOARD)
+    GPIO.setup(11, GPIO.OUT)
+    payloadDict= json.loads(content)
+    light_state = payloadDict["state"]["light"]
+    if (light_state == "off"):
+        #GPIO.output(channel, state)
+        GPIO.output(11, GPIO.LOW)
+    elif (light_state == "on"):
+        GPIO.output(11, GPIO.HIGH)
+
+
+if __name__ == '__main__':
+
+    content_type_header     = "application/json"
+
+    global device_id
+    headers = {'Content-Type': content_type_header}
+# polling raspberry Pi for response :- status , content of the message
+    while True:
+        status, content = requests.get( url, params = payload, headers=headers)
+        #if the status is 200- the raspberry pi is working fine and has sent a positive message
+        if status == 200:
+            #switching on and off the pi here depending on the content of the response
+            piStatus(content)
+            print (content)
+            device_id += 1
+        else:
+            print("Device not responding")
