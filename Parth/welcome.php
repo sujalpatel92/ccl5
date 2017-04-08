@@ -5,6 +5,13 @@
 session_start();
 $id = $_SESSION["id"];
 echo "<h3>Welcome " .$_SESSION["fname"]." ".$_SESSION["lname"].",</h3>";
+?>
+<form action = "logout.php" method = "post">
+  <input type="submit" value="Logout"></input>
+
+</form>
+<?php
+
 $con=mysqli_connect("localhost","root","root","cloudlab4");
 if (mysqli_connect_errno())
 	{ 
@@ -18,9 +25,11 @@ $result = mysqli_query($con, $sql);
 
 if(mysqli_num_rows($result)>0){	
 	echo "<h2>Your Registered Devices are:</h2>";
-	echo "<table><tr><th>Location</th><th>Device ID</th></tr>";
+	echo "<table><tr><th>Location</th><th>Device ID</th><th>Registration Status</th><th>ON/OFF Switch</th></tr>";
 	while($row = mysqli_fetch_assoc($result)){
-	echo "<tr><td>".$row['location']."</td><td>".$row['piid']."</td></tr>";
+	echo "<tr><td>".$row['location']."</td><td>".$row['piid'].
+  "</td><td>".$row['status'].
+  "</td><td><label class ='switch'><input type = 'checkbox' id = ".$row['piid']."><div class = 'slider round'></div></label></td><</tr>";
 
 }
 echo "</table>";
@@ -36,6 +45,12 @@ mysqli_close($con);
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Register</button>
 <button onclick="document.getElementById('id02').style.display='block'" style="width:auto;">UnRegister</button>
+  
+  <form class="modal-content animate" action="onoff.php" method = "post">
+   <input type = "submit" value = "ON/OFF Device">
+  </form>
+</div>
+
 
 <div id="id02" class="modal">
   
@@ -58,15 +73,18 @@ mysqli_close($con);
   </form>
 </div>
 
-<div id="id01" class="modal">
+<div id="id01" class="modal" >
   <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+ <form action = "check.php" method = "get">
+    <input type="submit" value="check"></input>
+  </form>
   <form class="modal-content animate" action="register.php" method = "post">
     <div class="container">
       <label><b>Location</b></label>
-      <input type="text" placeholder="Enter Location (home or office)" name="location" required>
+      <input type="text" placeholder="Location" name="location" required>
        <label><b>Raspberry PI ID</b></label>
-      <input type="text" placeholder="Will be given by system" name="piid" required>
-      <div class="clearfix">
+      <input type="" value ="<?php session_start(); echo $_SESSION['check']; ?>" name="piid" required>
+      <div class="clearfix">  
         <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
         <button type="submit" class="signupbtn">Register a Device</button>
       </div>
@@ -90,10 +108,5 @@ window.onclick = function(event) {
 }
 </script>
 
-	
-	<form action = "logout.php" method = "post">
-	<input type="submit" value="Logout"></input>
-
-</form>
 </body>	
 </html>
