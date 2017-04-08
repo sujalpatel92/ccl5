@@ -16,16 +16,20 @@ DeviceId="[your DeviceID]"
 payload= {'DeviceId': DeviceId}
 
 
+
 rget = requests.get(geturl,params = payload,verify = False)
 while rget.status_code!=404:
         rget = requests.get(geturl,params = payload,verify = False)
+        if rget.status_code == 404:
+                break
         data= json.loads(rget.text)
         if data["light"]=="off":
                 print 0
                 gpio.output(11, gpio.LOW)
-				logging.debug("Light_Status: OFF")
+                logging.debug("Light_Status: OFF")
         elif data["light"]=="on":
                 print 1
                 gpio.output(11, gpio.HIGH)
-				logging.debug("Light_Status: ON")
+                logging.debug("Light_Status: ON")
         time.sleep(1)
+
