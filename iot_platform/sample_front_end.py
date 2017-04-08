@@ -47,7 +47,7 @@ def light_route(command):
     #send_update()
     header = {'Content-Type':'application/json', 'Accept':'application/json'}
     body = {'light':light_state}
-    requests.post('http://ec2-35-162-32-72.us-west-2.compute.amazonaws.com:8080/light/status', headers = header, data = json.dumps(body), verify = False)
+    requests.post('http://ec2-35-162-32-72.us-west-2.compute.amazonaws.com:8000/light/status', headers = header, data = json.dumps(body), verify = False)
     return redirect("/", code=302)
 
 if __name__ == '__main__':
