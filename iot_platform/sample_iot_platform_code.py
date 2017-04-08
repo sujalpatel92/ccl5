@@ -190,6 +190,23 @@ def get_pi_confirmation():
     	return bottle.HTTPResponse(status=404)	
 
 """
+This function is to de-register the pi
+"""
+@app.route('/deregisterpi')
+def deRegisterPi():
+	global registeredDevices, deviceLEDState
+	pi_id = str(request.params["pi_id"]).split('|')[0]
+	if pi_id in registeredDevices:
+		registeredDevices.remove(pi_id)
+	else:
+		return bottle.HTTPResponse(status=500)
+	if pi_id in deviceLEDState:
+		del deviceLEDState[pi_id]
+	else:
+		return bottle.HTTPResponse(status=500)
+	return bottle.HTTPResponse(status=200)
+
+"""
 This function generates ID for pi
 """
 def generateID():
