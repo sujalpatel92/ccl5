@@ -101,7 +101,8 @@ def setLightState():
 	tmp = json.loads(payload, object_hook = JsonDecode.get_dict)
 	print(tmp['light'])
 	lState = tmp['light']
-	deviceLEDState["DummyID1"] = lState
+	pi_id = tmp['pi_id']
+	deviceLEDState[pi_id] = lState
 	return bottle.HTTPResponse(status=200)
 
 """
