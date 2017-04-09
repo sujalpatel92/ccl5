@@ -2,6 +2,7 @@ from __future__ import print_function
 import bottle, json, time, sys, os, datetime
 from bottle import get,post,request,response,route,run,Bottle
 from rocket import Rocket
+import logging
 
 # debug variable for light state
 lState = "off"
@@ -19,9 +20,22 @@ pi_last_connected = dict()
 # list to store device id's whose confirmation is awaited
 await_pi_confirm = list()
 
+#debug list for dynamic logging
+device_logger = dict()
 
+#logging related initializations
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+
+handler = logging.FileHandler('iotplatform.log')
+handler.setLevel(logging.DEBUG)
+
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+
+logger.addHandler(handler)
 """
-This class is used to decode josn file.
+This class is used to decode json file.
 The output can be either dictionary or list
 """
 class JsonDecode():
@@ -54,6 +68,22 @@ class JsonDecode():
             retval[key] = value
         return retval
 
+#dynamic logger initialization
+def generateLoggerHandler(pi_id):
+	#logging related initializations
+	logger = logging.getLogger(pi_id)
+	logger.setLevel(logging.DEBUG)
+
+	file_name = '/var/www/html/' + str(pi_id) + '.log'
+	handler = logging.FileHandler(file_name)
+	handler.setLevel(logging.DEBUG)
+
+	formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+	handler.setFormatter(formatter)
+
+	logger.addHandler(handler)
+	return logger
+
 # bottle necessary initialization for creating deployable app
 app = Bottle(__name__)
 # for debugging
@@ -76,13 +106,14 @@ return: stored state of the LED on that pi
 @app.get('/light/status')
 def tellLightState():
 	# need to complete implementation. currently partial implementation
-	global deviceLEDState
+	global deviceLEDState, logger, device_logger
 	deviceid = request.params["DeviceId"]
 	if deviceid in deviceLEDState:
 		if deviceid in pi_last_connected:
 			now = datetime.datetime.now()
 			pi_last_connected[deviceid] = str(now)
-
+		logger.info('Sending Light Status %s to pi with ID: %s', deviceLEDState[deviceid],deviceid)
+		device_logger[deviceid].info('Sending Light Status %s',deviceLEDState[deviceid])
 		return {'light':deviceLEDState[deviceid]}
 	else:
 		return bottle.HTTPResponse(status=404)
@@ -95,7 +126,7 @@ return HTTP 200 on sucessful status change else HTTP 500
 @app.post('/light/status')
 def setLightState():
 	# need to complete implementation. currently partial implementation.
-	global lState
+	global lState, logger, device_logger
 	payload = json.dumps(request.json)
 	print(payload)
 	tmp = json.loads(payload, object_hook = JsonDecode.get_dict)
@@ -103,6 +134,8 @@ def setLightState():
 	lState = tmp['light']
 	pi_id = tmp['pi_id']
 	deviceLEDState[pi_id] = lState
+	logger.info('Received Light State %s for pi with ID: %s', tmp['light'], tmp['pi_id'])
+	device_logger[pi_id].info('Received Light State %s from front end', tmp['light'])
 	return bottle.HTTPResponse(status=200)
 
 """
@@ -114,7 +147,7 @@ return: HTTP 200 on successful or HTTP 500
 @app.post('/registerdevice/pi')
 def registerpi():
 	# need to complete implementation. Currently partial implementation
-	global registeredDevices, await_pi_confirm
+	global registeredDevices, await_pi_confirm, logger, device_logger
 	payload = json.loads(json.dumps(request.json), object_hook = JsonDecode.get_dict)
 	print(payload["DeviceId"])
 	pi_id = payload["DeviceId"]
@@ -123,8 +156,8 @@ def registerpi():
 	else:
 		if pi_id not in id_given_to_pi:
 			return bottle.HTTPResponse(status=404)
-		registeredDevices.append(pi_id)
-		deviceLEDState[pi_id] = "off"
+		#registeredDevices.append(pi_id)
+		#deviceLEDState[pi_id] = "off"
 		now = datetime.datetime.now()
 		pi_last_connected[pi_id] = str(now)
 		if pi_id in await_pi_confirm:
@@ -132,6 +165,7 @@ def registerpi():
 		if pi_id in id_given_to_pi:
 			id_given_to_pi.remove(pi_id)
 			send_confirm_pi.append(pi_id)
+		logger.info('PI Register request received from pi with ID: %s',pi_id)
 		return bottle.HTTPResponse(status=200)
 
 """
@@ -164,8 +198,10 @@ Dummy function for the sake of frontend development
 @app.get('/registerpi/get_pi_id/dummy')
 def getDummyId():
     # partial implementation
+    global logger
     dummy_id = generateID()
     id_given_to_pi.append(dummy_id)
+    logger.debug('Generated Pi ID: %s',dummy_id)
     return {'pi_id':dummy_id}
 
 """
@@ -174,6 +210,7 @@ Another dummy function for sake of frontend development
 @app.get('/registerpi/get_pi_confirmation')
 def get_pi_confirmation():
     # partial implementation. Need to implement this completely
+    global logger, device_logger
     print(request["REMOTE_ADDR"])
     print(request.params)
     print(request.params["pi_id"])
@@ -184,10 +221,18 @@ def get_pi_confirmation():
     print(id_given_to_pi)
     if pi_id in send_confirm_pi:
 	send_confirm_pi.remove(pi_id)
+	registeredDevices.append(pi_id)
+	deviceLEDState[pi_id] = "off"
+	logger.info('PI successfully registered with pi ID: %s', pi_id)
+	logs = generateLoggerHandler(pi_id)
+	device_logger[pi_id] = logs
+	device_logger[pi_id].info('PI successfully registered.')
         return bottle.HTTPResponse(status=200)
     elif pi_id in registeredDevices:
+	logger.error('PI already registered with pi ID: %s', pi_id)
 	return bottle.HTTPResponse(status=403)
     else:
+	logger.error('Wrong PI ID requested to register from front end. Incorrect pi ID: %s', pi_id)
     	return bottle.HTTPResponse(status=404)	
 
 """
@@ -195,7 +240,7 @@ This function is to de-register the pi
 """
 @app.route('/deregisterpi')
 def deRegisterPi():
-	global registeredDevices, deviceLEDState
+	global registeredDevices, deviceLEDState, logger
 	pi_id = str(request.params["pi_id"]).split('|')[0]
 	if pi_id in registeredDevices:
 		registeredDevices.remove(pi_id)
@@ -205,7 +250,39 @@ def deRegisterPi():
 		del deviceLEDState[pi_id]
 	else:
 		return bottle.HTTPResponse(status=500)
+	logger.info('PI deregistered successfully. pi ID: %s', pi_id)
+	device_logger[pi_id].info('PI successfully deregistered.')
+	del device_logger[pi_id]
 	return bottle.HTTPResponse(status=200)
+
+"""
+This function returns logs for pi address
+"""
+@app.get('/getlogs')
+def getLogs():
+	global logger
+	pi_id = str(request.params["pi_id"]).split('|')[0]
+	print(pi_id, 'inside getLogs')
+	f = open('iotplatform.log','r')
+	lines = f.readlines()
+	log_array = []
+	for line in lines:
+		if pi_id in line:
+			log_array.append(line)
+	f.close()
+	print(log_array)
+	return {'logs':log_array}
+
+"""
+This function returns ip of page where to redirect to get logs
+"""
+@app.get('/getlogip')
+def getLogIP():
+	global logger, device_logger
+	pi_id = str(request.params["pi_id"]).split('|')[0]
+	url = "http://35.162.32.72/" + str(pi_id) + '.log'
+	#return {'url':url}
+	return bottle.HTTPResponse(url)
 
 """
 This function generates ID for pi
