@@ -1,0 +1,228 @@
+2017-04-20 04:38:37,080 Connected to IoT Platform
+2017-04-20 04:38:37,080 Fetching Light State from IoT Platform
+2017-04-20 04:38:37,089 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:38:37,436 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:38:38,530 Connected to IoT Platform
+2017-04-20 04:38:38,535 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:40:02,948 Connected to IoT Platform
+2017-04-20 04:40:02,948 Fetching Light State from IoT Platform
+2017-04-20 04:40:02,957 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:40:03,223 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:40:04,255 Connected to IoT Platform
+2017-04-20 04:40:04,256 Fetching Light State from IoT Platform
+2017-04-20 04:40:04,264 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:40:04,687 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:40:05,695 Connected to IoT Platform
+2017-04-20 04:40:05,696 Fetching Light State from IoT Platform
+2017-04-20 04:40:05,704 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:40:05,988 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:40:06,994 Connected to IoT Platform
+2017-04-20 04:40:06,995 Fetching Light State from IoT Platform
+2017-04-20 04:40:07,003 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:40:07,386 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:09,397 Connected to IoT Platform
+2017-04-20 04:41:09,397 Fetching Light State from IoT Platform
+2017-04-20 04:41:09,406 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:09,741 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:37,096 Connected to IoT Platform
+2017-04-20 04:41:37,096 Fetching Light State from IoT Platform
+2017-04-20 04:41:37,105 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:37,400 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:38,431 Connected to IoT Platform
+2017-04-20 04:41:38,432 Fetching Light State from IoT Platform
+2017-04-20 04:41:38,436 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:39,140 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:40,144 Connected to IoT Platform
+2017-04-20 04:41:40,144 Fetching Light State from IoT Platform
+2017-04-20 04:41:40,154 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:40,499 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:41,503 Connected to IoT Platform
+2017-04-20 04:41:41,504 Fetching Light State from IoT Platform
+2017-04-20 04:41:41,512 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:41,819 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:42,826 Connected to IoT Platform
+2017-04-20 04:41:42,827 Fetching Light State from IoT Platform
+2017-04-20 04:41:42,835 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:43,159 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:44,166 Connected to IoT Platform
+2017-04-20 04:41:44,166 Fetching Light State from IoT Platform
+2017-04-20 04:41:44,170 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:44,536 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:45,540 Connected to IoT Platform
+2017-04-20 04:41:45,541 Fetching Light State from IoT Platform
+2017-04-20 04:41:45,551 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:45,837 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:46,842 Connected to IoT Platform
+2017-04-20 04:41:46,843 Fetching Light State from IoT Platform
+2017-04-20 04:41:46,851 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:47,198 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:48,204 Connected to IoT Platform
+2017-04-20 04:41:48,205 Fetching Light State from IoT Platform
+2017-04-20 04:41:48,209 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:48,506 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:49,510 Connected to IoT Platform
+2017-04-20 04:41:49,511 Fetching Light State from IoT Platform
+2017-04-20 04:41:49,515 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:49,838 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:50,842 Connected to IoT Platform
+2017-04-20 04:41:50,843 Fetching Light State from IoT Platform
+2017-04-20 04:41:50,848 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:51,246 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:52,250 Connected to IoT Platform
+2017-04-20 04:41:52,251 Fetching Light State from IoT Platform
+2017-04-20 04:41:52,259 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:52,566 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:53,574 Connected to IoT Platform
+2017-04-20 04:41:53,575 Fetching Light State from IoT Platform
+2017-04-20 04:41:53,579 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:53,926 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:54,930 Connected to IoT Platform
+2017-04-20 04:41:54,930 Fetching Light State from IoT Platform
+2017-04-20 04:41:54,935 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:55,258 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:56,262 Connected to IoT Platform
+2017-04-20 04:41:56,267 Fetching Light State from IoT Platform
+2017-04-20 04:41:56,271 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:56,614 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:57,618 Connected to IoT Platform
+2017-04-20 04:41:57,619 Fetching Light State from IoT Platform
+2017-04-20 04:41:57,627 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:57,989 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:41:58,995 Connected to IoT Platform
+2017-04-20 04:41:58,996 Fetching Light State from IoT Platform
+2017-04-20 04:41:59,001 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:41:59,314 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:42:00,319 Connected to IoT Platform
+2017-04-20 04:42:00,319 Fetching Light State from IoT Platform
+2017-04-20 04:42:00,323 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:42:00,644 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:42:01,648 Connected to IoT Platform
+2017-04-20 04:42:01,649 Fetching Light State from IoT Platform
+2017-04-20 04:42:01,653 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:42:01,938 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:42:02,944 Connected to IoT Platform
+2017-04-20 04:42:02,945 Fetching Light State from IoT Platform
+2017-04-20 04:42:02,949 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:43:39,690 Connected to IoT Platform
+2017-04-20 04:43:39,691 Fetching Light State from IoT Platform
+2017-04-20 04:43:39,700 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:44:11,803 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:44:12,863 Connected to IoT Platform
+2017-04-20 04:44:12,864 Fetching Light State from IoT Platform
+2017-04-20 04:44:12,872 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:44:13,762 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:44:14,804 Connected to IoT Platform
+2017-04-20 04:44:14,805 Fetching Light State from IoT Platform
+2017-04-20 04:44:14,813 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:44:15,682 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:44:16,724 Connected to IoT Platform
+2017-04-20 04:44:16,725 Fetching Light State from IoT Platform
+2017-04-20 04:44:16,733 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:44:21,760 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:44:22,767 Connected to IoT Platform
+2017-04-20 04:44:22,768 Fetching Light State from IoT Platform
+2017-04-20 04:44:22,776 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:44:23,642 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 18
+2017-04-20 04:44:24,724 Connected to IoT Platform
+2017-04-20 04:44:24,725 Fetching Light State from IoT Platform
+2017-04-20 04:44:24,733 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:21,290 Connected to IoT Platform
+2017-04-20 04:46:21,290 Fetching Light State from IoT Platform
+2017-04-20 04:46:21,299 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:21,784 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:22,816 Connected to IoT Platform
+2017-04-20 04:46:22,817 Fetching Light State from IoT Platform
+2017-04-20 04:46:22,821 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:23,166 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:24,170 Connected to IoT Platform
+2017-04-20 04:46:24,171 Fetching Light State from IoT Platform
+2017-04-20 04:46:24,175 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:24,546 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:25,551 Connected to IoT Platform
+2017-04-20 04:46:25,552 Fetching Light State from IoT Platform
+2017-04-20 04:46:25,556 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:25,990 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:26,994 Connected to IoT Platform
+2017-04-20 04:46:26,995 Fetching Light State from IoT Platform
+2017-04-20 04:46:27,003 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:27,327 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:28,331 Connected to IoT Platform
+2017-04-20 04:46:28,331 Fetching Light State from IoT Platform
+2017-04-20 04:46:28,336 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:28,805 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:29,809 Connected to IoT Platform
+2017-04-20 04:46:29,810 Fetching Light State from IoT Platform
+2017-04-20 04:46:29,814 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:32,493 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:33,499 Connected to IoT Platform
+2017-04-20 04:46:33,499 Fetching Light State from IoT Platform
+2017-04-20 04:46:33,504 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:35,928 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:36,933 Connected to IoT Platform
+2017-04-20 04:46:36,934 Fetching Light State from IoT Platform
+2017-04-20 04:46:36,942 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:37,454 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:38,461 Connected to IoT Platform
+2017-04-20 04:46:38,462 Fetching Light State from IoT Platform
+2017-04-20 04:46:38,470 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:39,061 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:40,068 Connected to IoT Platform
+2017-04-20 04:46:40,068 Fetching Light State from IoT Platform
+2017-04-20 04:46:40,073 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:41,471 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:42,475 Connected to IoT Platform
+2017-04-20 04:46:42,476 Fetching Light State from IoT Platform
+2017-04-20 04:46:42,480 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:42,953 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:43,957 Connected to IoT Platform
+2017-04-20 04:46:43,958 Fetching Light State from IoT Platform
+2017-04-20 04:46:43,962 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:45,413 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:46,417 Connected to IoT Platform
+2017-04-20 04:46:46,418 Fetching Light State from IoT Platform
+2017-04-20 04:46:46,422 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:47,227 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:48,234 Connected to IoT Platform
+2017-04-20 04:46:48,234 Fetching Light State from IoT Platform
+2017-04-20 04:46:48,242 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:49,172 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:50,177 Connected to IoT Platform
+2017-04-20 04:46:50,177 Fetching Light State from IoT Platform
+2017-04-20 04:46:50,182 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:51,186 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:52,190 Connected to IoT Platform
+2017-04-20 04:46:52,190 Fetching Light State from IoT Platform
+2017-04-20 04:46:52,198 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:53,006 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:54,013 Connected to IoT Platform
+2017-04-20 04:46:54,013 Fetching Light State from IoT Platform
+2017-04-20 04:46:54,018 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:55,610 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:56,614 Connected to IoT Platform
+2017-04-20 04:46:56,614 Fetching Light State from IoT Platform
+2017-04-20 04:46:56,619 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:57,308 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:46:58,315 Connected to IoT Platform
+2017-04-20 04:46:58,316 Fetching Light State from IoT Platform
+2017-04-20 04:46:58,320 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:46:59,764 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:47:00,768 Connected to IoT Platform
+2017-04-20 04:47:00,769 Fetching Light State from IoT Platform
+2017-04-20 04:47:00,773 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:47:02,722 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:47:03,729 Connected to IoT Platform
+2017-04-20 04:47:03,730 Fetching Light State from IoT Platform
+2017-04-20 04:47:03,738 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:47:04,606 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:47:05,612 Connected to IoT Platform
+2017-04-20 04:47:05,612 Fetching Light State from IoT Platform
+2017-04-20 04:47:05,617 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:47:08,261 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:47:09,269 Connected to IoT Platform
+2017-04-20 04:47:09,269 Fetching Light State from IoT Platform
+2017-04-20 04:47:09,278 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:47:11,381 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16
+2017-04-20 04:47:12,388 Connected to IoT Platform
+2017-04-20 04:47:12,389 Fetching Light State from IoT Platform
+2017-04-20 04:47:12,397 Starting new HTTP connection (1): 35.162.32.72
+2017-04-20 04:47:13,161 http://35.162.32.72:9200 "GET /gps?DeviceId=88521B7AD79BE277&Email=sapan2211%40gmail.com HTTP/1.1" 200 16

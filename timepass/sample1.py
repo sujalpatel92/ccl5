@@ -50,6 +50,7 @@ def setGPS():
 	tmp = json.loads(payload, object_hook = JsonDecode.get_dict)
 	print(tmp)
 	gps = tmp["gps"]
+	Simulation()
 	return bottle.HTTPResponse(status = 200)
 
 @app.get('/getgps')
@@ -61,19 +62,21 @@ def getGPS():
 def setRPM():
 	global rpm
 	payload = json.dumps(request.json)
-    tmp = json.loads(payload, object_hook = JsonDecode.get_dict)
-    print(tmp)
-    rpm = tmp["rpm"]
-    return bottle.HTTPResponse(status = 200)
+    	tmp = json.loads(payload, object_hook = JsonDecode.get_dict)
+    	print(tmp)
+    	rpm = tmp["rpm"]
+	Simulation()
+    	return bottle.HTTPResponse(status = 200)
 
 @app.post('/setaf')
 def setAF():
-    global airflow
-    payload = json.dumps(request.json)
-    tmp = json.loads(payload, object_hook=JsonDecode.get_dict)
-    print(tmp)
-    airflow = tmp["air_flow"]
-    return bottle.HTTPResponse(status=200)
+    	global airflow
+    	payload = json.dumps(request.json)
+    	tmp = json.loads(payload, object_hook=JsonDecode.get_dict)
+    	print(tmp)
+    	airflow = tmp["air_flow"]
+	Simulation()
+    	return bottle.HTTPResponse(status=200)
 
 
 def run_server():
@@ -87,20 +90,18 @@ def Simulation():
     #url = "http://0.0.0.0:8500/setgps"
     global rpm, airflow, gps
 
-    url = "http://35.162.32.72:8500/report"
+    url = "http://35.162.32.72:9200/report"
 
-    while True:
-
-        body = {"gps": gps , "rpm":rpm, "air_flow": airflow}
-        print(body)
-        header = {'Content-Type': 'application/json', 'Accept': 'application/json'}
-        response = req.post(url, headers=header, data=json.dumps(body), verify=False)
-        time.sleep(1)
+    body = {"gps": gps , "rpm":rpm, "air_flow": airflow}
+    print(body)
+    header = {'Content-Type': 'application/json', 'Accept': 'application/json'}
+    response = req.post(url, headers=header, data=json.dumps(body), verify=False)
 
 if __name__ == "__main__":
     # for i in l:
-    t1 = threading.Thread(target=run_server)
-    t2 = threading.Thread(target=Simulation)
-    t1.start()
+    #t1 = threading.Thread(target=run_server)
+    #t2 = threading.Thread(target=Simulation)
+    #t1.start()
     #t1.join()
-    t2.start()
+    #t2.start()
+	run_server()
