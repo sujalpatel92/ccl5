@@ -3,6 +3,8 @@ import bottle, json, time, sys, os, datetime
 from bottle import get,post,request,response,route,run,Bottle
 from rocket import Rocket
 import logging
+import threading
+import json, requests as req
 
 class JsonDecode():
 
@@ -39,6 +41,7 @@ app.debug = True
 
 gps = "0,0"
 rpm = "0"
+airflow ="0"
 
 @app.post('/setgps')
 def setGPS():
@@ -58,10 +61,19 @@ def getGPS():
 def setRPM():
 	global rpm
 	payload = json.dumps(request.json)
-        tmp = json.loads(payload, object_hook = JsonDecode.get_dict)
-        print(tmp)
-        rpm = tmp["rpm"]
-        return bottle.HTTPResponse(status = 200)
+    tmp = json.loads(payload, object_hook = JsonDecode.get_dict)
+    print(tmp)
+    rpm = tmp["rpm"]
+    return bottle.HTTPResponse(status = 200)
+
+@app.post('/setaf')
+def setAF():
+    global airflow
+    payload = json.dumps(request.json)
+    tmp = json.loads(payload, object_hook=JsonDecode.get_dict)
+    print(tmp)
+    airflow = tmp["air_flow"]
+    return bottle.HTTPResponse(status=200)
 
 
 def run_server():
@@ -71,4 +83,24 @@ def run_server():
                 app_info = {'wsgi_app': app})
         server.start()
 
-run_server()
+def Simulation():
+    #url = "http://0.0.0.0:8500/setgps"
+    global rpm, airflow, gps
+
+    url = "http://35.162.32.72:8500/report"
+
+    while True:
+
+        body = {"gps": gps , "rpm":rpm, "air_flow": airflow}
+        print(body)
+        header = {'Content-Type': 'application/json', 'Accept': 'application/json'}
+        response = req.post(url, headers=header, data=json.dumps(body), verify=False)
+        time.sleep(1)
+
+if __name__ == "__main__":
+    # for i in l:
+    t1 = threading.Thread(target=run_server)
+    t2 = threading.Thread(target=Simulation)
+    t1.start()
+    #t1.join()
+    t2.start()
