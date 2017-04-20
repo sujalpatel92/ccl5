@@ -2,7 +2,7 @@ import json, requests as req
 import time
 from random import randint
 
-url = "http://ec2-35-162-32-72.us-west-2.compute.amazonaws.com:8500/setrpm"
+url = "http://0.0.0.0:8500/setrpm"
 
 rpm = 0
 while True:

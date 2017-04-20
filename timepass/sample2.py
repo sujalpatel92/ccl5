@@ -1,7 +1,7 @@
 import json, requests as req
 import time
 
-url = "http://ec2-35-162-32-72.us-west-2.compute.amazonaws.com:8500/setgps"
+url = "http://0.0.0.0:8500/setgps"
 
 lat, lon = 0,0
 while True:
