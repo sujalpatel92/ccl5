@@ -52,7 +52,7 @@ while True:
 	lon_in = int(float(gps_tmp[0]) * (10**5))
 	lat_in = int(float(gps_tmp[1]) * (10**5))
 	print lon_in, lat_in
-	if abs(abs(lon) - abs(lon_in)) <= 10 and abs(abs(lat) - abs(lat_in)) <= 10:
+	if abs(abs(lon) - abs(lon_in)) <= 12 and abs(abs(lat) - abs(lat_in)) <= 12:
 		gpio.output(11, gpio.HIGH)
 		logging.debug("Light is ON")
 	else:
