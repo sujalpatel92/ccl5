@@ -36,6 +36,18 @@ class JsonDecode():
             retval[key] = value
         return retval
 
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+
+handler = logging.FileHandler('maindaemon.log')
+handler.setLevel(logging.DEBUG)
+
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+
+logger.addHandler(handler)
+
+
 app = Bottle(__name__)
 app.debug = True
 
@@ -45,12 +57,14 @@ airflow ="0"
 
 @app.post('/setgps')
 def setGPS():
-	global gps
+	global gps,logger
 	payload = json.dumps(request.json)
 	tmp = json.loads(payload, object_hook = JsonDecode.get_dict)
 	print(tmp)
 	gps = tmp["gps"]
 	Simulation()
+	logger.debug("Receiving GPS Coordinates %s", gps)
+	logger.debug("Submitting report")
 	return bottle.HTTPResponse(status = 200)
 
 @app.get('/getgps')
@@ -66,6 +80,8 @@ def setRPM():
     	print(tmp)
     	rpm = tmp["rpm"]
 	Simulation()
+	logger.debug("Receiving RPM %s", rpm)
+	logger.debug("Submitting report")
     	return bottle.HTTPResponse(status = 200)
 
 @app.post('/setaf')
@@ -76,6 +92,8 @@ def setAF():
     	print(tmp)
     	airflow = tmp["air_flow"]
 	Simulation()
+	logger.debug("Receiving Air Flow %s", airflow)
+	logger.debug("Submitting report")
     	return bottle.HTTPResponse(status=200)
 
 

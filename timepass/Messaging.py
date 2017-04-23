@@ -5,14 +5,14 @@ import json
 import logging
 import sys
 
-LOG_FILENAME = "pi_logs.txt"
+LOG_FILENAME = "pi_receiver.log"
 logging.basicConfig(filename=LOG_FILENAME, level=logging.DEBUG,format='%(asctime)s %(message)s')
 
 gpio.setmode(gpio.BOARD)
 gpio.setup(11, gpio.OUT)
 
-lat = sys.argv[1]
-gps_current = str(lat) + ",150"
+lat = 3298638
+lon = -9677585
 
 url = "http://35.162.32.72"
 geturl = "http://35.162.32.72:9200/gps"
@@ -26,7 +26,7 @@ flag=0
 logging.debug("Connected to IoT Platform")
 #rget = requests.get(connecturl,params = payload,verify = False)
 while True:
-	logging.debug("Fetching Light State from IoT Platform")
+	logging.debug("Fetching GPS from IoT Platform")
 	rget = requests.get(geturl,params = payload,verify = False)
         if rget.status_code == 404:
 		break
@@ -46,13 +46,18 @@ while True:
 			flag=1
         '''
 	gps_in = data["gps"]
+	logging.debug("GPS received %s", gps_in)
 	gps_tmp = gps_in.split(",")
-	gps_tmp2 = gps_current.split(",")
-	if int(gps_tmp2[0]) - int(gps_tmp[0]) <= 2:
+	#gps_tmp2 = gps_current.split(",")
+	lon_in = int(float(gps_tmp[0]) * (10**5))
+	lat_in = int(float(gps_tmp[1]) * (10**5))
+	print lon_in, lat_in
+	if abs(abs(lon) - abs(lon_in)) <= 10 and abs(abs(lat) - abs(lat_in)) <= 6:
 		gpio.output(11, gpio.HIGH)
-	if int(gps_tmp2[0]) - int(gps_tmp[0]) <= -10:
+	else:
 		gpio.output(11, gpio.LOW)
 	time.sleep(1)
-	logging.debug("Connected to IoT Platform")
+	#logging.debug("Connected to IoT Platform")
 	#rget = requests.get(connecturl, params = payload, verify = False)
 logging.debug("Device Disconnected")
+
