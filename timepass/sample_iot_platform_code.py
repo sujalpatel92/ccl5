@@ -1,4 +1,6 @@
 from __future__ import print_function
+from pyicloud import PyiCloudService
+import sqlite3
 import bottle, json, time, sys, os, datetime
 from bottle import get,post,request,response,route,run,Bottle
 from rocket import Rocket
@@ -19,6 +21,10 @@ registeredDevices = list()
 pi_last_connected = dict()
 # list to store device id's whose confirmation is awaited
 await_pi_confirm = list()
+# global variables
+gps = "0,0"
+rpm = "0"
+af = "0"
 
 #debug list for dynamic logging
 device_logger = dict()
@@ -27,7 +33,7 @@ device_logger = dict()
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
-handler = logging.FileHandler('iotplatform.log')
+handler = logging.FileHandler('lab5.log')
 handler.setLevel(logging.DEBUG)
 
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -284,6 +290,70 @@ def getLogIP():
 	#return {'url':url}
 	return bottle.HTTPResponse(url)
 
+#Lab5 related functions
+"""
+"""
+@app.post('/report')
+def report_from_pi2():
+	global logger, device_logger, gps, rpm, af
+	payload = json.loads(json.dumps(request.json), object_hook = JsonDecode.get_dict)
+	gps = payload['gps']
+	rpm = payload['rpm']
+	af = payload['air_flow']
+	print(payload)
+	logger.debug("Received Report from Pi")
+	return bottle.HTTPResponse(status = 200)
+
+"""
+"""
+@app.get('/gps')
+def getGPS():
+	global gps
+	logger.debug("Sending GPS to Pi")
+	return {"gps" : gps}
+	
+"""
+"""
+@app.get('/gps_based_light')
+def getLight():
+	global gps
+	apple_id = ""
+	password = ""
+	conn = sqlite3.connect('id_pass.db')
+	cur = conn.cursor()
+	cur.execute("SELECT * FROM pass")
+	data = cur.fetchall()
+	if len(data) == 0:
+        	conn.close()
+        	print("Error fetching data")
+	elif len(data) > 0:
+        	for item in data:
+                	apple_id = str(item[0])
+	                password = str(item[1])
+		conn.close()
+	api = PyiCloudService(apple_id, password)
+	if api.requires_2fa:
+		import click
+		print("Two-factor authentication required. Your trusted devices are:")
+
+		devices = api.trusted_devices
+		for i, device in enumerate(devices):
+			print("  %s: %s" % (i, device.get('deviceName',"SMS to %s" % device.get('phoneNumber'))))
+
+		device = click.prompt('Which device would you like to use?', default=0)
+		device = devices[device]
+		if not api.send_verification_code(device):
+			print("Failed to send verification code")
+			sys.exit(1)
+
+		code = click.prompt('Please enter validation code')
+		if not api.validate_verification_code(device, code):
+			print("Failed to verify verification code")
+			sys.exit(1)
+	tmp = json.loads(json.dumps(api.iphone.location()))
+	tmp2 = str(tmp["longitude"]) + "," + str(tmp["latitude"])
+	return {"gps":tmp2}
+
 """
 This function generates ID for pi
 """
@@ -303,7 +373,7 @@ app_info = {'wsgi_app':<bottle deployable object>}
 """
 def run_server():
 	server = Rocket(
-		interfaces = ('0.0.0.0', 8000),
+		interfaces = ('0.0.0.0', 9200),
 		method = 'wsgi',
 		app_info = {'wsgi_app': app})
 	server.start()
