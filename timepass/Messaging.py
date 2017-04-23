@@ -11,7 +11,7 @@ logging.basicConfig(filename=LOG_FILENAME, level=logging.DEBUG,format='%(asctime
 gpio.setmode(gpio.BOARD)
 gpio.setup(11, gpio.OUT)
 
-lat = 3298638
+lat = 3298640
 lon = -9677585
 
 url = "http://35.162.32.72"
@@ -52,10 +52,12 @@ while True:
 	lon_in = int(float(gps_tmp[0]) * (10**5))
 	lat_in = int(float(gps_tmp[1]) * (10**5))
 	print lon_in, lat_in
-	if abs(abs(lon) - abs(lon_in)) <= 10 and abs(abs(lat) - abs(lat_in)) <= 6:
+	if abs(abs(lon) - abs(lon_in)) <= 10 and abs(abs(lat) - abs(lat_in)) <= 10:
 		gpio.output(11, gpio.HIGH)
+		logging.debug("Light is ON")
 	else:
 		gpio.output(11, gpio.LOW)
+		logging.debug("Light is Off")
 	time.sleep(1)
 	#logging.debug("Connected to IoT Platform")
 	#rget = requests.get(connecturl, params = payload, verify = False)

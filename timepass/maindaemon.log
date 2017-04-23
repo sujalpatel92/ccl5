@@ -1,0 +1,2104 @@
+2017-04-23 05:56:11,626 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758441065,32.9864796158
+2017-04-23 05:56:11,628 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:13,349 - __main__ - DEBUG - Receiving GPS Coordinates -96.775780044,32.9865005188
+2017-04-23 05:56:13,349 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:14,989 - __main__ - DEBUG - Receiving GPS Coordinates -96.7760650535,32.9862232972
+2017-04-23 05:56:14,990 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:16,734 - __main__ - DEBUG - Receiving GPS Coordinates -96.7760596053,32.9862240097
+2017-04-23 05:56:16,735 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:18,168 - __main__ - DEBUG - Receiving GPS Coordinates -96.7760596053,32.9862240097
+2017-04-23 05:56:18,169 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:19,818 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759903708,32.9863622273
+2017-04-23 05:56:19,819 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:21,276 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759607826,32.9864057293
+2017-04-23 05:56:21,277 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:22,854 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759316974,32.9864455015
+2017-04-23 05:56:22,855 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:24,343 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759316974,32.9864455015
+2017-04-23 05:56:24,344 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:25,851 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759316974,32.9864455015
+2017-04-23 05:56:25,852 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:27,321 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759316974,32.9864455015
+2017-04-23 05:56:27,322 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:28,851 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759316974,32.9864455015
+2017-04-23 05:56:28,852 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:30,469 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759316974,32.9864455015
+2017-04-23 05:56:30,470 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:32,162 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759316974,32.9864455015
+2017-04-23 05:56:32,163 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:33,746 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:33,747 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:35,340 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:35,340 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:36,961 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:36,962 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:38,548 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:38,548 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:40,158 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:40,159 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:41,800 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:41,801 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:43,270 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:43,271 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:43,671 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 05:56:43,672 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:44,707 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:44,708 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:45,982 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 05:56:45,983 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:46,349 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:46,350 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:47,834 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:47,835 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:48,163 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:56:48,163 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:49,234 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:49,234 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:50,708 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:56:50,709 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:51,076 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:51,077 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:52,697 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:52,698 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:52,951 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 05:56:52,952 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:54,310 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:54,311 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:55,150 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:56:55,151 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:55,784 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:55,785 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:57,342 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:56:57,342 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:57,389 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:57,390 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:58,888 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:56:58,889 - __main__ - DEBUG - Submitting report
+2017-04-23 05:56:59,530 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:56:59,530 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:00,313 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:00,314 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:01,763 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 05:57:01,763 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:01,788 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:01,789 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:03,421 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:03,422 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:03,994 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:57:03,995 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:04,899 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:04,900 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:06,215 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:57:06,216 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:06,455 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:06,456 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:07,937 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:07,938 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:08,412 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:57:08,413 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:09,350 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:09,351 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:10,615 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:57:10,615 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:10,791 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:10,792 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:12,203 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:12,203 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:12,806 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 05:57:12,807 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:13,752 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:13,752 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:14,988 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:57:14,988 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:15,157 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758893688,32.9864747962
+2017-04-23 05:57:15,158 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:16,550 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:16,550 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:17,188 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:57:17,189 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:18,112 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:18,112 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:19,365 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:57:19,365 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:19,545 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:19,545 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:21,101 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:21,102 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:21,566 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 05:57:21,567 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:22,687 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:22,688 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:23,515 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:57:23,515 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:23,750 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:57:23,750 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:24,128 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:24,129 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:24,693 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:57:24,693 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:25,873 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:57:25,873 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:25,902 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:25,908 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:25,945 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:57:25,946 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:27,079 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:57:27,080 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:27,609 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:27,610 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:28,140 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 05:57:28,140 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:28,297 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:57:28,297 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:29,389 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:29,390 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:29,508 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:57:29,508 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:30,337 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:57:30,338 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:30,708 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:57:30,709 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:31,912 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:57:31,912 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:32,020 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:32,021 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:32,541 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:57:32,541 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:33,106 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:57:33,106 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:33,629 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:33,630 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:34,315 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:57:34,316 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:34,767 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:57:34,767 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:35,374 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:35,374 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:35,618 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:57:35,618 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:36,845 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:57:36,846 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:36,900 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:36,901 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:36,974 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:57:36,975 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:38,110 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:57:38,111 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:38,636 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:38,637 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:39,176 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 05:57:39,177 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:39,310 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:57:39,310 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:40,245 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:40,246 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:40,501 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:57:40,502 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:41,375 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:57:41,375 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:41,695 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:57:41,696 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:41,729 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:41,729 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:42,889 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:57:42,890 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:43,434 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:43,434 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:43,584 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:57:43,584 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:44,101 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:57:44,102 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:45,014 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:45,014 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:45,284 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:57:45,285 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:45,800 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:57:45,800 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:46,486 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:57:46,487 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:46,511 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:46,512 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:47,705 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:57:47,706 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:48,008 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 05:57:48,009 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:48,033 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:48,034 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:48,936 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:57:48,936 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:49,937 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:49,938 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:50,335 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:57:50,336 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:50,337 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:57:50,339 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:51,576 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:57:51,577 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:51,621 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:51,622 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:52,573 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 05:57:52,573 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:52,801 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:57:52,801 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:53,435 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:53,436 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:54,196 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:57:54,196 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:54,976 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:57:54,976 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:55,086 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:55,087 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:55,426 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:57:55,426 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:56,586 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:56,587 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:56,623 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:57:56,623 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:57,206 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:57:57,206 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:57,918 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:57:57,919 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:58,252 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:58,257 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:59,128 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:57:59,128 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:59,421 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:57:59,422 - __main__ - DEBUG - Submitting report
+2017-04-23 05:57:59,737 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:57:59,738 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:00,326 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:58:00,327 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:01,213 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:58:01,213 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:01,529 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:58:01,529 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:01,618 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 05:58:01,618 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:02,721 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:02,721 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:02,863 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:58:02,863 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:03,808 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:58:03,808 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:03,900 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:58:03,900 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:04,417 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:58:04,417 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:05,089 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:58:05,090 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:05,993 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:58:05,994 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:06,090 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:58:06,090 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:06,306 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:58:06,307 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:07,517 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:58:07,518 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:07,711 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758497224,32.9865053064
+2017-04-23 05:58:07,712 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:08,194 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:58:08,195 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:08,709 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:58:08,710 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:09,178 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758488004,32.9865054321
+2017-04-23 05:58:09,179 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:09,908 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:09,909 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:10,406 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 05:58:10,407 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:10,842 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758661509,32.9865009059
+2017-04-23 05:58:10,843 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:11,104 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:58:11,104 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:12,344 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:12,345 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758741976,32.9865024984
+2017-04-23 05:58:12,346 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:12,346 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:12,616 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:58:12,617 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:13,538 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:58:13,539 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:13,903 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758907099,32.986512892
+2017-04-23 05:58:13,904 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:14,738 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:58:14,738 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:14,816 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 05:58:14,816 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:15,377 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758982536,32.9865136883
+2017-04-23 05:58:15,378 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:15,929 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:58:15,930 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:16,947 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759030313,32.9865141074
+2017-04-23 05:58:16,951 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:17,032 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:58:17,033 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:17,138 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:58:17,142 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:18,380 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:18,380 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:18,464 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759016902,32.9865094135
+2017-04-23 05:58:18,464 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:19,223 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 05:58:19,223 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:19,560 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:58:19,560 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:20,097 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759016902,32.9865094135
+2017-04-23 05:58:20,098 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:20,734 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:58:20,735 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:21,416 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:58:21,416 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:21,700 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759016902,32.9865094135
+2017-04-23 05:58:21,701 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:21,940 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:58:21,941 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:23,160 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:58:23,161 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:23,182 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759016902,32.9865094135
+2017-04-23 05:58:23,182 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:23,623 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:58:23,624 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:24,400 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:58:24,401 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:24,688 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759016902,32.9865094135
+2017-04-23 05:58:24,689 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:25,624 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:58:25,625 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:25,829 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:58:25,830 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:26,227 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759132572,32.9864946613
+2017-04-23 05:58:26,228 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:26,843 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:58:26,843 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:27,684 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:27,685 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:28,034 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:58:28,038 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:28,039 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:58:28,041 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:29,258 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:58:29,263 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:29,265 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:29,266 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:30,254 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:58:30,255 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:30,470 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:30,471 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:30,718 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:30,719 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:31,674 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:58:31,675 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:32,414 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:32,415 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:32,461 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:58:32,461 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:32,895 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:58:32,896 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:33,884 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:33,884 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:34,109 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:58:34,110 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:34,661 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:58:34,661 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:35,300 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:58:35,301 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:35,389 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:35,390 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:36,498 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:58:36,499 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:36,848 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:36,849 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:36,863 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 05:58:36,863 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:37,713 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:58:37,713 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:38,392 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:38,392 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:38,935 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:58:38,936 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:39,169 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 05:58:39,169 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:40,043 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:40,044 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:40,208 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:58:40,209 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:41,505 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:58:41,506 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:58:41,507 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:41,507 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:41,620 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:41,620 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:42,817 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:42,818 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:43,133 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:43,134 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:43,714 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:58:43,715 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:44,020 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:58:44,021 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:44,618 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:44,619 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:45,259 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:45,260 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:45,978 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:58:45,979 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:46,447 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:58:46,447 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:46,525 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:46,525 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:47,635 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:58:47,635 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:48,173 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:58:48,174 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:48,177 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:48,178 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:48,821 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:58:48,822 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:49,929 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:49,930 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:50,013 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:58:50,014 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:50,560 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 05:58:50,564 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:51,222 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:58:51,223 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:51,518 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:51,519 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:52,526 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:58:52,527 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:52,764 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:58:52,765 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:53,125 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:53,126 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:53,751 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:58:53,751 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:54,623 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:54,624 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:54,961 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:58:54,962 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:54,972 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:58:54,973 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:56,164 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:56,164 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:56,468 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:56,468 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:57,174 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 05:58:57,175 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:57,379 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:58:57,380 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:58,029 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:58,029 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:58,583 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:58,583 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:59,359 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:58:59,359 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:59,441 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:58:59,441 - __main__ - DEBUG - Submitting report
+2017-04-23 05:58:59,786 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:58:59,786 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:00,923 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:00,924 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:00,986 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:59:00,986 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:01,568 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:59:01,569 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:02,192 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:59:02,193 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:02,613 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:02,614 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:03,414 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:59:03,415 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:03,760 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:59:03,761 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:04,195 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:04,196 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:04,627 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:04,628 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:05,705 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:05,705 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:05,828 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:59:05,829 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:05,964 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:59:05,965 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:07,050 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:59:07,051 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:07,559 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:07,560 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:08,166 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:59:08,167 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:08,246 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:59:08,247 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:09,159 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:09,159 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:09,446 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:09,446 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:10,370 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 05:59:10,370 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:10,640 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:59:10,640 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:10,753 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:10,754 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:11,854 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:59:11,854 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:12,233 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:12,233 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:12,585 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:59:12,586 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:13,049 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:59:13,049 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:13,700 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:13,701 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:14,241 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:59:14,242 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:14,799 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:59:14,799 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:15,182 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:15,183 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:15,442 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:59:15,442 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:16,639 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:16,640 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:16,670 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:16,671 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:16,998 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:59:16,998 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:17,836 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:59:17,837 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:18,212 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:18,213 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:19,046 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:19,047 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:19,200 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:59:19,201 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:19,692 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:19,692 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:20,272 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:59:20,273 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:21,280 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:21,281 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:21,449 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:59:21,450 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:21,494 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:21,495 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:22,698 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:59:22,703 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:22,879 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:22,879 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:23,660 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:59:23,661 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:23,913 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:59:23,914 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:24,347 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:24,348 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:25,112 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:59:25,112 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:25,857 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:59:25,858 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:26,539 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:26,547 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:26,615 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:59:26,616 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:27,822 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:59:27,823 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:28,039 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:28,039 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:28,061 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:59:28,061 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:29,036 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:29,036 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:29,783 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:29,784 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:30,221 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:59:30,222 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:30,253 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 05:59:30,253 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:31,241 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:31,242 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:31,409 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:31,409 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:32,451 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:59:32,452 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:32,617 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:59:32,618 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:32,893 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:32,893 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:33,793 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:59:33,794 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:34,294 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:34,295 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:34,640 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:59:34,641 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:34,984 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:59:34,985 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:35,758 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:35,758 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:36,182 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:59:36,183 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:36,832 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:59:36,833 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:37,331 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:37,332 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:37,380 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:59:37,381 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:38,583 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:59:38,584 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:38,950 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:38,951 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:39,044 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:59:39,045 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:39,783 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:59:39,784 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:40,396 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:40,397 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:40,975 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:40,976 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:41,252 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:59:41,252 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:41,875 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:41,876 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:42,186 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:59:42,186 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:43,398 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 05:59:43,399 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:43,475 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:59:43,476 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:44,608 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:44,609 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:45,254 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:45,255 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:45,694 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 05:59:45,695 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:45,797 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:59:45,797 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:46,836 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:46,837 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:47,006 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:59:47,006 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:47,881 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 05:59:47,881 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:48,196 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:59:48,197 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:48,241 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:48,242 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:49,378 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 05:59:49,379 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:49,670 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:49,670 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:50,086 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 05:59:50,086 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:50,698 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 05:59:50,699 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:51,365 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:51,366 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:51,896 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:59:51,897 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:52,289 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:59:52,290 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:52,857 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:52,858 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:53,101 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 05:59:53,102 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:54,330 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 05:59:54,331 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:54,342 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:54,343 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:54,498 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 05:59:54,499 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:55,601 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 05:59:55,602 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:55,892 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:55,893 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:56,710 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 05:59:56,711 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:56,804 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 05:59:56,805 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:57,483 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:57,484 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:58,002 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 05:59:58,002 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:58,900 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 05:59:58,900 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:59,056 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 05:59:59,057 - __main__ - DEBUG - Submitting report
+2017-04-23 05:59:59,208 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 05:59:59,209 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:00,436 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:00:00,437 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:00,642 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:00,642 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:01,127 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:00:01,128 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:01,669 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:00:01,669 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:02,267 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:02,268 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:02,862 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:00:02,862 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:03,338 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:00:03,338 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:03,755 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:03,755 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:04,043 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:00:04,044 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:05,167 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:05,167 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:05,222 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:00:05,222 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:05,523 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:00:05,523 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:06,418 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:00:06,419 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:06,975 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:06,975 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:07,606 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:00:07,607 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:07,713 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:00:07,714 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:08,628 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:08,628 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:08,794 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:00:08,794 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:09,904 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:00:09,904 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:09,992 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:00:09,993 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:10,323 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:10,323 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:11,193 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:00:11,193 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:12,041 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:12,042 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:12,105 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:00:12,105 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:12,399 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:00:12,399 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:13,601 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:00:13,601 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:13,630 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:13,630 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:14,306 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:00:14,307 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:14,806 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:00:14,807 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:15,116 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:15,117 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:16,016 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:00:16,017 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:16,510 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:00:16,510 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:16,710 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:16,711 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:17,229 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:00:17,230 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:18,341 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:18,342 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:18,429 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:00:18,429 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:18,715 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:00:18,716 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:19,635 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:00:19,636 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:19,926 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:19,931 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:20,832 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:00:20,833 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:20,928 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:00:20,929 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:21,507 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:21,508 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:22,033 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:00:22,033 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:23,128 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:00:23,129 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:23,251 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:00:23,252 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:23,294 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:23,294 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:24,481 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:00:24,481 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:24,983 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:24,984 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:25,366 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:00:25,367 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:25,751 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:00:25,752 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:26,626 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:26,627 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:26,985 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:00:26,986 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:27,567 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:00:27,568 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:28,196 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:00:28,197 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:28,204 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:28,205 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:29,406 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:00:29,407 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:29,663 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:29,664 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:29,806 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:00:29,806 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:30,602 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:00:30,603 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:31,161 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:31,162 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:31,876 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:00:31,876 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:32,091 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:00:32,092 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:32,661 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:32,662 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:33,084 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:00:33,085 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:34,258 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:34,259 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:34,304 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:00:34,305 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:34,307 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:00:34,308 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:35,503 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:00:35,504 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:35,932 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:35,933 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:36,546 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:00:36,555 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:36,697 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:00:36,698 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:37,402 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:37,402 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:37,899 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:00:37,900 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:38,798 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:00:38,799 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:39,013 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:39,014 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:39,091 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:00:39,092 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:40,310 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:00:40,311 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:40,495 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:40,496 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:41,000 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:00:41,000 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:41,510 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:00:41,511 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:41,954 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:41,954 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:42,697 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:00:42,698 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:43,212 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:00:43,213 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:43,371 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:43,371 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:43,881 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:00:43,881 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:44,945 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:44,945 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:45,085 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:00:45,085 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:45,410 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:00:45,411 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:46,273 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:00:46,274 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:46,545 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:46,546 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:47,472 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:00:47,473 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:47,615 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:00:47,616 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:48,052 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:48,053 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:48,670 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:00:48,671 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:49,706 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:49,707 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:49,891 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:00:49,892 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:49,973 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:00:49,974 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:51,230 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:51,231 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:51,238 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:00:51,238 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:52,151 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:00:52,152 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:52,461 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:00:52,462 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:52,766 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:52,767 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:53,670 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:00:53,671 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:54,232 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:54,233 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:54,353 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:00:54,353 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:54,868 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:00:54,868 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:55,697 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:55,698 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:56,066 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:00:56,066 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:56,554 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:00:56,555 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:57,217 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:57,218 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:57,285 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:00:57,286 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:58,473 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:00:58,474 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:58,685 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:00:58,686 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:58,757 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:00:58,758 - __main__ - DEBUG - Submitting report
+2017-04-23 06:00:59,665 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:00:59,666 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:00,175 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:00,176 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:00,875 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:00,876 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:00,974 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:01:00,974 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:01,795 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:01,795 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:02,094 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:01:02,095 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:03,167 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:01:03,168 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:03,310 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:03,311 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:03,371 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:03,372 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:04,581 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:04,582 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:04,830 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:04,831 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:05,374 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:01:05,375 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:05,784 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:01:05,784 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:06,571 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:06,572 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:07,020 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:07,021 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:07,584 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:01:07,585 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:08,159 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:08,159 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:08,262 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:01:08,263 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:09,504 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:09,505 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:09,699 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:09,700 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:09,854 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:01:09,855 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:10,739 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:01:10,739 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:11,631 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:11,632 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:12,005 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:01:12,006 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:12,106 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:01:12,107 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:13,250 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:13,250 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:13,370 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:13,371 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:14,643 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:01:14,644 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:14,799 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:14,800 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:15,233 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:15,234 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:16,031 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:16,031 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:16,752 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:16,753 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:16,906 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:01:16,907 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:17,245 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:17,245 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:18,509 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:01:18,510 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:18,698 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759162747,32.9864811246
+2017-04-23 06:01:18,698 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:19,267 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:01:19,270 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:19,915 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:01:19,916 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:20,717 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759030313,32.9865048034
+2017-04-23 06:01:20,718 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:21,161 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:01:21,162 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:21,507 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:01:21,507 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:22,323 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759007682,32.9865014507
+2017-04-23 06:01:22,323 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:22,432 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:01:22,432 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:23,727 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:01:23,728 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:23,819 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:01:23,825 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758937274,32.9864996486
+2017-04-23 06:01:23,825 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:23,826 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:24,928 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:01:24,929 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:25,280 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758937274,32.9864996486
+2017-04-23 06:01:25,281 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:26,026 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:01:26,027 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:26,119 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:01:26,120 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:27,040 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758880277,32.9865001096
+2017-04-23 06:01:27,040 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:27,305 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:01:27,306 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:28,564 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:01:28,564 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:28,765 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:01:28,765 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:28,940 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758880277,32.9865001096
+2017-04-23 06:01:28,941 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:29,967 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:01:29,967 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:30,367 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758898717,32.9864856508
+2017-04-23 06:01:30,368 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:30,754 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:01:30,755 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:31,191 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:01:31,192 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:31,914 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758833338,32.9864792805
+2017-04-23 06:01:31,915 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:32,437 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:01:32,438 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:33,006 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:01:33,006 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:33,568 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758833338,32.9864792805
+2017-04-23 06:01:33,569 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:33,650 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:33,650 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:34,876 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:01:34,876 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:35,230 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:01:35,230 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:35,250 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758833338,32.9864792805
+2017-04-23 06:01:35,251 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:36,086 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:01:36,087 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:36,833 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758833338,32.9864792805
+2017-04-23 06:01:36,833 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:37,277 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:37,278 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:37,427 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:01:37,428 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:38,411 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758772151,32.9864685098
+2017-04-23 06:01:38,411 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:38,484 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:01:38,485 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:39,638 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:01:39,639 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:39,678 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:01:39,679 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:40,009 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758734432,32.986468426
+2017-04-23 06:01:40,009 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:40,882 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:40,883 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:41,713 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758684141,32.986466121
+2017-04-23 06:01:41,714 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:41,828 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:01:41,829 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:42,086 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:01:42,087 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:43,148 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758519855,32.9864576552
+2017-04-23 06:01:43,148 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:43,278 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:01:43,278 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:44,012 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:01:44,012 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:44,491 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:44,492 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:44,607 - __main__ - DEBUG - Receiving GPS Coordinates -96.775832791,32.9864511593
+2017-04-23 06:01:44,607 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:45,670 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:01:45,670 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:46,165 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758248282,32.9864532966
+2017-04-23 06:01:46,166 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:46,215 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:01:46,215 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:46,861 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:01:46,861 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:47,768 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758173683,32.9864593735
+2017-04-23 06:01:47,769 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:48,069 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:48,070 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:48,417 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:01:48,417 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:49,240 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758056336,32.9864750058
+2017-04-23 06:01:49,241 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:49,277 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:01:49,277 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:50,565 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:50,575 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:50,700 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:01:50,700 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:51,069 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758033705,32.9864842259
+2017-04-23 06:01:51,070 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:51,771 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:51,772 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:52,546 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758006883,32.986492524
+2017-04-23 06:01:52,547 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:52,903 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:01:52,903 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:52,979 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:01:52,979 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:54,047 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758042925,32.9865034623
+2017-04-23 06:01:54,048 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:54,183 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:01:54,184 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:55,099 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:01:55,100 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:55,385 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:01:55,385 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:55,659 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758042925,32.9865089525
+2017-04-23 06:01:55,660 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:56,580 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:01:56,581 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:57,246 - __main__ - DEBUG - Receiving GPS Coordinates -96.77579524,32.9865184659
+2017-04-23 06:01:57,246 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:57,328 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:01:57,328 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:57,810 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:01:57,811 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:58,801 - __main__ - DEBUG - Receiving GPS Coordinates -96.775788786,32.986529111
+2017-04-23 06:01:58,802 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:59,041 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:01:59,042 - __main__ - DEBUG - Submitting report
+2017-04-23 06:01:59,538 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:01:59,539 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:00,319 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:02:00,320 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:00,322 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757880316,32.986536026
+2017-04-23 06:02:00,323 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:01,523 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:01,524 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:01,874 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:02:01,875 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:01,981 - __main__ - DEBUG - Receiving GPS Coordinates -96.775788786,32.986543444
+2017-04-23 06:02:01,981 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:02,740 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:02,741 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:03,523 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757885345,32.9865476769
+2017-04-23 06:02:03,524 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:03,941 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:02:03,942 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:04,075 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:02:04,075 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:04,995 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757885345,32.9865476769
+2017-04-23 06:02:04,996 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:05,159 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:02:05,160 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:06,285 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:02:06,286 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:06,359 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:02:06,360 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:06,604 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757747044,32.9865674163
+2017-04-23 06:02:06,605 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:07,624 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:02:07,624 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:08,150 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:08,151 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:08,490 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:02:08,491 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:08,832 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:02:08,833 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:09,915 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:09,916 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:10,199 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:02:10,199 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:10,688 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:02:10,688 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:11,404 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:02:11,405 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:11,516 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:11,517 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:12,606 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:02:12,607 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:12,878 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:02:12,878 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:13,075 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:13,076 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:13,797 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:02:13,798 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:14,654 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:14,654 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:14,978 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:14,979 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:15,064 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:02:15,065 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:16,115 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:16,116 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:16,188 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:02:16,189 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:17,281 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:02:17,282 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:17,730 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:02:17,730 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:17,978 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:17,979 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:18,932 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:18,933 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:19,678 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:19,678 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:19,685 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:02:19,686 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:20,480 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:02:20,481 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:21,167 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:21,167 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:21,709 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:02:21,710 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:21,902 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:02:21,903 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:22,954 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:02:22,955 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:22,966 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:22,967 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:24,172 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:02:24,173 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:24,228 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:24,229 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:24,519 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:24,520 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:25,468 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:02:25,469 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:26,192 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:26,193 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:26,509 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:02:26,510 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:26,678 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:26,679 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:27,865 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:27,866 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:27,873 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:02:27,874 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:28,996 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:02:28,997 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:29,505 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:02:29,506 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:30,078 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:30,078 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:31,258 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:02:31,259 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:31,750 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:02:31,751 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:32,178 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:32,178 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:32,565 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:02:32,566 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:33,835 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:33,839 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:33,843 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:02:33,843 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:34,200 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:02:34,201 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:35,196 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:02:35,197 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:35,718 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:35,719 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:36,434 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:02:36,439 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:36,441 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:02:36,443 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:37,306 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:37,306 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:37,679 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:37,680 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:38,721 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:02:38,722 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:38,952 - __main__ - DEBUG - Receiving GPS Coordinates -96.775763305,32.9865708528
+2017-04-23 06:02:38,953 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:38,954 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:38,954 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:40,183 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:02:40,183 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:40,509 - __main__ - DEBUG - Receiving GPS Coordinates -96.7753800572,32.986575863
+2017-04-23 06:02:40,510 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:40,936 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:02:40,936 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:41,413 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:02:41,414 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:42,062 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756566388,32.9866448446
+2017-04-23 06:02:42,063 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:42,718 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:02:42,718 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:43,174 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:02:43,175 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:43,635 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757758778,32.9866353935
+2017-04-23 06:02:43,636 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:44,036 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:02:44,037 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:45,212 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757758778,32.9866353935
+2017-04-23 06:02:45,213 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:45,406 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:02:45,407 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:45,674 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:02:45,675 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:46,741 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:02:46,742 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:47,265 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757467926,32.9866284365
+2017-04-23 06:02:47,266 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:47,882 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:02:47,883 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:47,939 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:02:47,940 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:49,113 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757294421,32.986640255
+2017-04-23 06:02:49,114 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:49,150 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:02:49,151 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:50,433 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:02:50,434 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:50,709 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:02:50,709 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:50,975 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757252512,32.986658318
+2017-04-23 06:02:50,976 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:51,898 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:02:51,899 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:52,648 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:02:52,649 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:52,663 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757268437,32.9866755428
+2017-04-23 06:02:52,663 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:53,094 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:02:53,094 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:54,259 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757224851,32.9866881576
+2017-04-23 06:02:54,260 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:54,301 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:02:54,301 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:54,883 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:02:54,884 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:55,495 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:02:55,496 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:55,886 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757145223,32.9867117945
+2017-04-23 06:02:55,887 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:56,689 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:02:56,690 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:57,089 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:02:57,090 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:57,458 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757160311,32.9867200088
+2017-04-23 06:02:57,459 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:57,896 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:02:57,896 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:58,874 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757192162,32.9867280135
+2017-04-23 06:02:58,875 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:59,074 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:02:59,074 - __main__ - DEBUG - Submitting report
+2017-04-23 06:02:59,278 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:02:59,278 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:00,271 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:00,271 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:00,468 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757210602,32.9867361021
+2017-04-23 06:03:00,468 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:01,488 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:03:01,488 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:01,495 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:03:01,496 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:02,050 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757124268,32.9867483815
+2017-04-23 06:03:02,050 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:02,699 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:02,700 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:03,677 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:03:03,678 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:03,795 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757140194,32.9867612897
+2017-04-23 06:03:03,796 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:03,885 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:03:03,885 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:05,074 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:05,074 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:05,332 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757238262,32.9867881956
+2017-04-23 06:03:05,333 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:05,860 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:03:05,861 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:06,302 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:03:06,303 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:06,939 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757117563,32.9868242797
+2017-04-23 06:03:06,940 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:07,513 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:07,514 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:08,066 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:03:08,067 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:08,529 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756999378,32.9868544545
+2017-04-23 06:03:08,529 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:08,714 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:03:08,714 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:09,912 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:03:09,912 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:10,142 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756916397,32.9868679494
+2017-04-23 06:03:10,142 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:10,301 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:03:10,301 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:11,135 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:11,136 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:11,741 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756758817,32.9868720984
+2017-04-23 06:03:11,742 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:12,355 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:03:12,356 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:12,525 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:03:12,526 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:13,362 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756750436,32.9868702125
+2017-04-23 06:03:13,362 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:13,591 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:03:13,592 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:14,753 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:03:14,753 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:14,821 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:03:14,822 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:15,043 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756503169,32.9868558795
+2017-04-23 06:03:15,044 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:16,082 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:16,083 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:16,543 - __main__ - DEBUG - Receiving GPS Coordinates -96.775637325,32.9868468689
+2017-04-23 06:03:16,544 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:16,979 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:03:16,980 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:17,284 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:03:17,285 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:18,228 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756369897,32.9868429713
+2017-04-23 06:03:18,229 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:18,514 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:03:18,515 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:19,272 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:03:19,273 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:19,752 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:03:19,752 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:19,969 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756374926,32.9868353019
+2017-04-23 06:03:19,969 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:20,961 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:03:20,962 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:21,423 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756368221,32.9868177837
+2017-04-23 06:03:21,423 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:21,472 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:03:21,472 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:22,153 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:22,153 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:23,069 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756253389,32.9868197535
+2017-04-23 06:03:23,070 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:23,357 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:23,357 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:23,678 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:03:23,679 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:24,559 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:03:24,560 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:24,639 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756175437,32.9868222261
+2017-04-23 06:03:24,640 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:25,786 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:03:25,787 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:25,885 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:03:25,886 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:26,146 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756198068,32.9868259142
+2017-04-23 06:03:26,146 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:26,975 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:03:26,976 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:27,660 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756317929,32.9868298956
+2017-04-23 06:03:27,661 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:28,116 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:03:28,123 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:28,189 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:28,190 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:29,148 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756325473,32.9868276324
+2017-04-23 06:03:29,149 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:29,385 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:29,386 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:30,342 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:03:30,343 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:30,638 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:03:30,639 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:30,698 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756506522,32.9868203821
+2017-04-23 06:03:30,698 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:31,885 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:31,886 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:32,248 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756682542,32.9868218489
+2017-04-23 06:03:32,249 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:32,543 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:03:32,544 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:33,083 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:03:33,084 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:33,754 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757022009,32.9868265009
+2017-04-23 06:03:33,754 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:34,324 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:34,324 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:34,744 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:03:34,744 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:35,313 - __main__ - DEBUG - Receiving GPS Coordinates -96.77571469,32.9868280096
+2017-04-23 06:03:35,314 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:35,518 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:35,519 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:36,760 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:03:36,761 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:36,960 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:03:36,961 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:36,982 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757346389,32.9868356372
+2017-04-23 06:03:36,982 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:38,008 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:03:38,009 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:38,509 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757469603,32.9868364334
+2017-04-23 06:03:38,510 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:39,161 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:03:39,162 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:39,201 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:03:39,202 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:39,994 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757819128,32.9868217232
+2017-04-23 06:03:39,995 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:40,402 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:03:40,403 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:41,360 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:03:41,361 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:41,603 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:41,604 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:41,731 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757858523,32.9868106591
+2017-04-23 06:03:41,732 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:42,822 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:42,823 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:43,398 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757844274,32.9867750779
+2017-04-23 06:03:43,399 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:43,563 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:03:43,564 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:44,070 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:03:44,070 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:45,045 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757751235,32.9867373174
+2017-04-23 06:03:45,046 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:45,276 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:03:45,277 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:45,761 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:03:45,761 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:46,471 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:03:46,472 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:46,526 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757616286,32.9866833799
+2017-04-23 06:03:46,527 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:47,674 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:47,675 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:47,947 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:03:47,948 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:48,061 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757541687,32.9866681667
+2017-04-23 06:03:48,062 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:48,959 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:03:48,971 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:49,597 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757557613,32.9866431048
+2017-04-23 06:03:49,598 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:50,136 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:03:50,137 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:50,177 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:50,177 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:51,309 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757615448,32.9866322922
+2017-04-23 06:03:51,310 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:51,359 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:03:51,360 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:52,322 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:03:52,323 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:52,546 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:03:52,547 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:52,740 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757682503,32.9866162828
+2017-04-23 06:03:52,740 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:53,738 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:03:53,739 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:54,157 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757685856,32.9866244551
+2017-04-23 06:03:54,157 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:54,556 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:03:54,556 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:54,952 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:03:54,953 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:55,584 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757556775,32.9866369861
+2017-04-23 06:03:55,584 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:56,143 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:03:56,144 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:56,771 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:03:56,772 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:57,182 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757397518,32.9866382014
+2017-04-23 06:03:57,183 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:57,377 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:03:57,378 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:58,670 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:03:58,671 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:58,766 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757397518,32.9866382014
+2017-04-23 06:03:58,766 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:58,980 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:03:58,980 - __main__ - DEBUG - Submitting report
+2017-04-23 06:03:59,913 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:03:59,913 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:00,281 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757397518,32.9866382014
+2017-04-23 06:04:00,282 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:01,106 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:04:01,107 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:01,202 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:04:01,203 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:01,890 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757397518,32.9866382014
+2017-04-23 06:04:01,891 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:02,358 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:04:02,359 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:03,413 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:04:03,414 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:03,580 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757397518,32.9866382014
+2017-04-23 06:04:03,582 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:04:03,582 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:03,582 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:04,817 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:04:04,818 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:05,234 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755684257,32.9865677934
+2017-04-23 06:04:05,235 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:05,676 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:04:05,677 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:06,065 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:04:06,066 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:06,743 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755839323,32.9865685897
+2017-04-23 06:04:06,744 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:07,298 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:04:07,299 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:07,882 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:04:07,883 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:08,522 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:04:08,522 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:08,774 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756001932,32.9865761334
+2017-04-23 06:04:08,774 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:09,719 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:04:09,719 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:10,070 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:04:10,070 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:10,513 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756101676,32.9865901731
+2017-04-23 06:04:10,513 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:10,927 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:04:10,928 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:12,140 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:04:12,141 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:12,221 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756274343,32.9866215214
+2017-04-23 06:04:12,222 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:12,268 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:04:12,269 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:13,340 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:04:13,340 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:13,832 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756290269,32.9866344296
+2017-04-23 06:04:13,832 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:14,480 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:04:14,481 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:14,564 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:04:14,565 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:15,474 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756259256,32.9866456613
+2017-04-23 06:04:15,475 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:15,758 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:04:15,758 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:16,695 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:04:16,696 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:16,988 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:04:16,988 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:17,209 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756157835,32.9866586952
+2017-04-23 06:04:17,210 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:18,251 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:04:18,252 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:18,664 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756019534,32.9866617965
+2017-04-23 06:04:18,665 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:18,892 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:04:18,893 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:19,460 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:04:19,461 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:20,414 - __main__ - DEBUG - Receiving GPS Coordinates -96.775600277,32.9866604554
+2017-04-23 06:04:20,415 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:20,688 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:04:20,689 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:21,097 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:04:21,098 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:21,880 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:04:21,881 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:22,012 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755990197,32.9866622994
+2017-04-23 06:04:22,013 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:23,086 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:04:23,087 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:23,317 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:04:23,317 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:23,597 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755847705,32.98666758
+2017-04-23 06:04:23,598 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:24,292 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:04:24,292 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:25,063 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755716947,32.9866733216
+2017-04-23 06:04:25,063 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:25,493 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:04:25,493 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:25,512 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:04:25,512 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:26,535 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755634804,32.986688409
+2017-04-23 06:04:26,535 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:26,727 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:04:26,728 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:27,693 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:04:27,693 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:27,903 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:04:27,903 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:27,936 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755658274,32.9866941506
+2017-04-23 06:04:27,937 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:29,097 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:04:29,098 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:29,576 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755704374,32.9866950307
+2017-04-23 06:04:29,576 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:29,879 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:04:29,879 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:30,274 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:04:30,274 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:31,116 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755704374,32.9866950307
+2017-04-23 06:04:31,117 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:31,481 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:04:31,481 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:32,075 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:04:32,076 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:32,675 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:04:32,676 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:32,705 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755704374,32.9866950307
+2017-04-23 06:04:32,706 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:33,868 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:04:33,868 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:34,192 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755704374,32.9866950307
+2017-04-23 06:04:34,193 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:34,289 - __main__ - DEBUG - Receiving RPM 2000
+2017-04-23 06:04:34,290 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:35,069 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:04:35,070 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:35,779 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755704374,32.9866950307
+2017-04-23 06:04:35,779 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:36,266 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:04:36,267 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:36,492 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:04:36,493 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:37,241 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755704374,32.9866950307
+2017-04-23 06:04:37,242 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:37,459 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:04:37,460 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:38,682 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:04:38,683 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:38,690 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:04:38,691 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:38,710 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755704374,32.9866950307
+2017-04-23 06:04:38,711 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:39,875 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:04:39,876 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:40,255 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755704374,32.9866950307
+2017-04-23 06:04:40,256 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:40,906 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:04:40,907 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:41,078 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:04:41,079 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:41,960 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755772267,32.9866723577
+2017-04-23 06:04:41,961 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:42,277 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:04:42,278 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:43,164 - __main__ - DEBUG - Receiving RPM 1000
+2017-04-23 06:04:43,165 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:43,500 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:04:43,501 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:43,560 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755851057,32.9866571445
+2017-04-23 06:04:43,561 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:44,686 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:04:44,687 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:45,135 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755910569,32.9866496008
+2017-04-23 06:04:45,136 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:45,361 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:04:45,362 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:45,883 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:04:45,884 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:46,778 - __main__ - DEBUG - Receiving GPS Coordinates -96.775597008,32.9866343458
+2017-04-23 06:04:46,779 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:47,096 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:04:47,097 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:47,568 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:04:47,569 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:48,237 - __main__ - DEBUG - Receiving GPS Coordinates -96.7755965051,32.9866194679
+2017-04-23 06:04:48,238 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:48,297 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:04:48,298 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:49,501 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:04:49,502 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:49,759 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:04:49,760 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:49,846 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756284402,32.9865755048
+2017-04-23 06:04:49,847 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:51,063 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:04:51,064 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:51,431 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756543403,32.9865535861
+2017-04-23 06:04:51,432 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:51,958 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:04:51,959 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:52,279 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:04:52,280 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:52,914 - __main__ - DEBUG - Receiving GPS Coordinates -96.7756851018,32.9865206452
+2017-04-23 06:04:52,915 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:53,484 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:04:53,485 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:54,157 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:04:54,158 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:54,374 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757092417,32.9864901351
+2017-04-23 06:04:54,375 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:54,690 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:04:54,690 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:55,876 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757199706,32.9864775203
+2017-04-23 06:04:55,877 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:55,895 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:04:55,896 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:56,359 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:04:56,360 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:57,103 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:04:57,104 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:57,333 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757355609,32.9864626844
+2017-04-23 06:04:57,334 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:58,348 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:04:58,349 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:58,582 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:04:58,582 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:58,929 - __main__ - DEBUG - Receiving GPS Coordinates -96.775748469,32.9864597926
+2017-04-23 06:04:58,930 - __main__ - DEBUG - Submitting report
+2017-04-23 06:04:59,546 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:04:59,547 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:00,445 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757569347,32.986460547
+2017-04-23 06:05:00,446 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:00,743 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:05:00,743 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:00,774 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:05:00,774 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:01,948 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:05:01,949 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:02,036 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757829186,32.986456398
+2017-04-23 06:05:02,036 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:03,018 - __main__ - DEBUG - Receiving RPM 5000
+2017-04-23 06:05:03,019 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:03,147 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:05:03,148 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:03,509 - __main__ - DEBUG - Receiving GPS Coordinates -96.7757829186,32.986456398
+2017-04-23 06:05:03,509 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:04,347 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:05:04,348 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:04,978 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758326233,32.986438754
+2017-04-23 06:05:04,979 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:05,217 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:05:05,218 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:05,538 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:05:05,539 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:06,431 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758563441,32.9864223674
+2017-04-23 06:05:06,432 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:06,781 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:05:06,782 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:07,422 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:05:07,423 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:07,991 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:05:07,991 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:08,015 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758693361,32.9864201043
+2017-04-23 06:05:08,016 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:09,179 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:05:09,180 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:09,596 - __main__ - DEBUG - Receiving GPS Coordinates -96.775889285,32.9864209006
+2017-04-23 06:05:09,597 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:09,620 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:05:09,621 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:10,378 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:05:10,379 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:11,074 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758924701,32.9864206072
+2017-04-23 06:05:11,075 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:11,587 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:05:11,588 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:11,824 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:05:11,824 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:12,550 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758898717,32.986414237
+2017-04-23 06:05:12,550 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:12,781 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:05:12,782 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:13,992 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:05:13,993 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:14,022 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758861837,32.9864017479
+2017-04-23 06:05:14,023 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:14,052 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:05:14,052 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:15,189 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:05:15,190 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:15,495 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758705934,32.9863841879
+2017-04-23 06:05:15,496 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:16,251 - __main__ - DEBUG - Receiving RPM 8000
+2017-04-23 06:05:16,252 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:16,385 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:05:16,386 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:17,075 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758634687,32.9863747582
+2017-04-23 06:05:17,076 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:17,583 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:05:17,584 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:18,447 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:05:18,447 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:18,546 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758617085,32.9863739619
+2017-04-23 06:05:18,547 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:18,792 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:05:18,792 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:20,001 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:05:20,001 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:20,007 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758660671,32.986375303
+2017-04-23 06:05:20,010 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:20,657 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:05:20,658 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:21,203 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:05:21,204 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:21,640 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758660671,32.986375303
+2017-04-23 06:05:21,640 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:22,412 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:05:22,413 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:22,927 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:05:22,928 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:23,143 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758660671,32.986375303
+2017-04-23 06:05:23,144 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:23,607 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:05:23,608 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:24,624 - __main__ - DEBUG - Receiving GPS Coordinates -96.7758993433,32.9863862833
+2017-04-23 06:05:24,625 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:24,830 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:05:24,830 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:25,146 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:05:25,146 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:26,064 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:05:26,065 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:26,501 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759233993,32.9863904743
+2017-04-23 06:05:26,501 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:27,244 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:05:27,245 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:27,331 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:05:27,331 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:28,247 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759334576,32.9863956711
+2017-04-23 06:05:28,248 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:28,429 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:05:28,430 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:29,513 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:05:29,513 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:29,609 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:05:29,610 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:29,897 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759334576,32.9863956711
+2017-04-23 06:05:29,897 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:30,791 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:05:30,791 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:31,577 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759334576,32.9863956711
+2017-04-23 06:05:31,578 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:31,715 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:05:31,715 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:32,006 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:05:32,007 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:33,153 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759334576,32.9863956711
+2017-04-23 06:05:33,153 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:33,201 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:05:33,201 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:33,901 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:05:33,901 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:34,385 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:05:34,386 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:34,683 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759446894,32.9864092917
+2017-04-23 06:05:34,683 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:35,577 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:05:35,577 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:36,100 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:05:36,101 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:36,467 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759432645,32.9864101718
+2017-04-23 06:05:36,468 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:36,769 - __main__ - DEBUG - Receiving Air Flow 9000
+2017-04-23 06:05:36,770 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:37,967 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:05:37,968 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:38,052 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759432645,32.9864101718
+2017-04-23 06:05:38,052 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:38,300 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:05:38,301 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:39,203 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:05:39,203 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:39,561 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759546638,32.9864078248
+2017-04-23 06:05:39,562 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:40,395 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:05:40,395 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:40,487 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:05:40,487 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:41,164 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759589386,32.9864071962
+2017-04-23 06:05:41,164 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:41,638 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:05:41,639 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:42,692 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:05:42,692 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:42,797 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759685778,32.9864106747
+2017-04-23 06:05:42,798 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:42,848 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:05:42,849 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:44,075 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:05:44,076 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:44,304 - __main__ - DEBUG - Receiving GPS Coordinates -96.775969416,32.9864175478
+2017-04-23 06:05:44,305 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:44,926 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:05:44,926 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:45,286 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:05:45,286 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:45,872 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759762892,32.9864374549
+2017-04-23 06:05:45,873 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:46,478 - __main__ - DEBUG - Receiving Air Flow 3000
+2017-04-23 06:05:46,478 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:47,124 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:05:47,125 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:47,332 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759808992,32.9864457529
+2017-04-23 06:05:47,332 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:47,680 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:05:47,681 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:48,960 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:05:48,960 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:49,021 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759865989,32.986454973
+2017-04-23 06:05:49,021 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:49,337 - __main__ - DEBUG - Receiving RPM 4000
+2017-04-23 06:05:49,338 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:50,167 - __main__ - DEBUG - Receiving Air Flow 5000
+2017-04-23 06:05:50,168 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:51,092 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759881076,32.9864617624
+2017-04-23 06:05:51,093 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:51,385 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:05:51,385 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:51,540 - __main__ - DEBUG - Receiving RPM 6000
+2017-04-23 06:05:51,541 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:52,612 - __main__ - DEBUG - Receiving Air Flow 2000
+2017-04-23 06:05:52,613 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:52,722 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:05:52,722 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:53,733 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:05:53,734 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:53,816 - __main__ - DEBUG - Receiving Air Flow 4000
+2017-04-23 06:05:53,816 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:54,204 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:05:54,205 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:55,011 - __main__ - DEBUG - Receiving Air Flow 1000
+2017-04-23 06:05:55,012 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:55,789 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:05:55,790 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:55,935 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:05:55,936 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:56,205 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:05:56,206 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:57,388 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:05:57,389 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:57,442 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:05:57,443 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:58,147 - __main__ - DEBUG - Receiving RPM 9000
+2017-04-23 06:05:58,148 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:58,648 - __main__ - DEBUG - Receiving Air Flow 6000
+2017-04-23 06:05:58,649 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:58,921 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:05:58,922 - __main__ - DEBUG - Submitting report
+2017-04-23 06:05:59,847 - __main__ - DEBUG - Receiving Air Flow 7000
+2017-04-23 06:05:59,848 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:00,372 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:06:00,372 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:00,446 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:06:00,447 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:01,036 - __main__ - DEBUG - Receiving Air Flow 8000
+2017-04-23 06:06:01,036 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:01,960 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:06:01,960 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:02,571 - __main__ - DEBUG - Receiving RPM 7000
+2017-04-23 06:06:02,571 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:03,559 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:06:03,559 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:04,792 - __main__ - DEBUG - Receiving RPM 3000
+2017-04-23 06:06:04,792 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:05,125 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:06:05,126 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:06,592 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:06:06,593 - __main__ - DEBUG - Submitting report
+2017-04-23 06:06:08,094 - __main__ - DEBUG - Receiving GPS Coordinates -96.7759874371,32.9864641931
+2017-04-23 06:06:08,094 - __main__ - DEBUG - Submitting report
